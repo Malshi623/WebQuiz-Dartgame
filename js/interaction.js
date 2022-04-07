@@ -260,9 +260,9 @@ var interactionJSON = {
             "backgroundColor": "#c4bbbb",
             "overlayColor": "rgb(150, 239, 180)",
             "toggleFlag": true,
-            "imageUrl": "../assets/images/knife_hit_background.png",
+            "imageUrl": "https://raptivity2020-staging.s3-us-west-2.amazonaws.com/harbinger/assets/images/knife_hit_background.png",
             "altText": "Default Placeholder",
-            "logoImage": "../assets/images/dart_logo.png",
+            "logoImage": "https://raptivity2020-staging.s3-us-west-2.amazonaws.com/harbinger/assets/images/dart_logo.png",
             "logoAltText": "Default Placeholder",
             "textContent": "<p style='font-size:20px;color:#fff;text-align:center'>Show off your dart throwing skills and answer questions in tandem. For every correct answer, you get to throw a dart and aim for a balloon. Each time a balloon pops, you get bonus points. For every incorrect answer, you lose a dart.</p><br><br><p style='font-size: 20px;color:#fff;text-align:center'>Click the <b>Start</b> button to begin.</p>",
             "slideTitle": "",
@@ -324,8 +324,8 @@ var interactionJSON = {
         "feedbackScreen": {
             "feedbackScreenType": "true"
         },
-        "defaultInteractionPlaceholder": "./assets/images/knife_hit_background.png",
-        "defaultIntroductionPlaceholder": "./assets/images/knife_hit_intro_logo.png",
+        "defaultInteractionPlaceholder": "../assets/images/knife_hit_background.png",
+        "defaultIntroductionPlaceholder": "../assets/images/knife_hit_intro_logo.png",
         "default_color": "#D6BC9B",
         "bg_color": "#D6BC9B",
         "bg_alt_text": "Default Placeholder",
