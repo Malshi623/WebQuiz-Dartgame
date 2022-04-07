@@ -324,8 +324,8 @@ var interactionJSON = {
         "feedbackScreen": {
             "feedbackScreenType": "true"
         },
-        "defaultInteractionPlaceholder": "../assets/images/knife_hit_background.png",
-        "defaultIntroductionPlaceholder": "../assets/images/knife_hit_intro_logo.png",
+        "defaultInteractionPlaceholder": "./assets/images/knife_hit_background.png",
+        "defaultIntroductionPlaceholder": "./assets/images/knife_hit_intro_logo.png",
         "default_color": "#D6BC9B",
         "bg_color": "#D6BC9B",
         "bg_alt_text": "Default Placeholder",
