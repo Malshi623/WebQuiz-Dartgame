@@ -31,18 +31,18 @@ var interactionJSON = {
     "userType": "Annual Subscription",
     "interactionData": [{
         "slides": [{
+                /*question 1*/
                 "name": "Question",
                 "questionData": {
                     "maxOptions": 5,
-                    "questionContent": "What year was the National Basketball Association first established?",
+                    "questionContent": "A line which cuts a pair of parallel lines is called",
                     "optionType": "MCQ",
-                    "options": [
-                        "1946",
-                        "1935",
-                        "1947",
-                        "1961",
+                    "options": ["tangent",
+                        "chord",
+                        "traversal",
+                        "intersector"
                     ],
-                    "answer": [0],
+                    "answer": [2],
                     "neutralAnswer": -1
                 },
                 "feedbackPanel": {
@@ -58,18 +58,18 @@ var interactionJSON = {
                 }
             },
             {
+                /*question 2*/
                 "name": "Question",
                 "questionData": {
                     "maxOptions": 5,
-                    "questionContent": "When was the iconic NBA logo designed?",
+                    "questionContent": "An angle whose value is ____, is called complete angle.",
                     "optionType": "MCQ",
-                    "options": [
-                        "1969",
-                        "1968",
-                        "1971",
-                        "1980",
+                    "options": ["180°",
+                        "240°",
+                        "360°",
+                        "none of the above"
                     ],
-                    "answer": [0],
+                    "answer": [2],
                     "neutralAnswer": -1
                 },
                 "feedbackPanel": {
@@ -85,18 +85,18 @@ var interactionJSON = {
                 }
             },
             {
+                /*question 3*/
                 "name": "Question",
                 "questionData": {
                     "maxOptions": 5,
-                    "questionContent": "What year did the NBA-ABA merger occur?",
+                    "questionContent": "A shopkeeper purchases 15 mangoes for Rs. 10 and sells them at 10 mangoes for Rs. 15. Thus, he earns a profit of",
                     "optionType": "MCQ",
-                    "options": [
-                        "1970",
-                        "1973",
-                        "1976",
-                        "1980"
+                    "options": ["50%",
+                        "75%",
+                        "80%",
+                        "125%"
                     ],
-                    "answer": [2],
+                    "answer": [3],
                     "neutralAnswer": -1
                 },
                 "feedbackPanel": {
@@ -112,18 +112,18 @@ var interactionJSON = {
                 }
             },
             {
+                /*question 4*/
                 "name": "Question",
                 "questionData": {
                     "maxOptions": 5,
-                    "questionContent": "Who is the only coach to win both a NCAA and NBA championship?",
+                    "questionContent": "If a certain sum of money can become 5 times of its principal in 10 years, then the rate of interest is",
                     "optionType": "MCQ",
-                    "options": [
-                        "Rick Pitino",
-                        "Larry Brown",
-                        "Chuck Daly",
-                        "John Calipari"
+                    "options": ["20%",
+                        "30%",
+                        "40%",
+                        "50%"
                     ],
-                    "answer": [1],
+                    "answer": [2],
                     "neutralAnswer": -1
                 },
                 "feedbackPanel": {
@@ -139,18 +139,18 @@ var interactionJSON = {
                 }
             },
             {
+                /*question 5*/
                 "name": "Question",
                 "questionData": {
                     "maxOptions": 5,
-                    "questionContent": "Who was the NBA's first commissioner?",
+                    "questionContent": "An amount of Rs. 10,000 becomes Rs. 20,736 in 2 years. If the rate of interest is compounded half yearly, what is the annual rate of interest?",
                     "optionType": "MCQ",
-                    "options": [
-                        "James A. Naismith",
-                        "Maurice Podoloff",
-                        "Jackie Moon",
-                        "Walter Brown"
+                    "options": ["25%",
+                        "20%",
+                        "40%",
+                        "30%"
                     ],
-                    "answer": [1],
+                    "answer": [2],
                     "neutralAnswer": -1
                 },
                 "feedbackPanel": {
